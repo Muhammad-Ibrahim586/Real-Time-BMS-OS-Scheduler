@@ -1,0 +1,226 @@
+ Thread 'Voltage Monitor' is initialized!
+ Starting RMS Scheduler Simulation...
+ Thread 'Temperature Sensor' is initialized!
+ Thread 'SoC Calculator' is initialized!
+ Thread 'Cell Balancer' is initialized!
+ [Time: 0ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ Thread 'Logger' is initialized!
+ [Time: 10ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 20ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 30ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 40ms] Running: 'SoC Calculator' (Remaining: 50ms)
+ [Time: 50ms] Running: 'SoC Calculator' (Remaining: 40ms)
+ [Time: 60ms] Running: 'SoC Calculator' (Remaining: 30ms)
+ [Time: 70ms] Running: 'SoC Calculator' (Remaining: 20ms)
+ [Time: 80ms] Running: 'SoC Calculator' (Remaining: 10ms)
+ [Time: 90ms] Running: 'Cell Balancer' (Remaining: 100ms)
+ [Time: 100ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 110ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 120ms] Running: 'Cell Balancer' (Remaining: 90ms)
+ [Time: 130ms] Running: 'Cell Balancer' (Remaining: 80ms)
+ [Time: 140ms] Running: 'Cell Balancer' (Remaining: 70ms)
+ [Time: 150ms] Running: 'Cell Balancer' (Remaining: 60ms)
+ [Time: 160ms] Running: 'Cell Balancer' (Remaining: 50ms)
+ [Time: 170ms] Running: 'Cell Balancer' (Remaining: 40ms)
+ [Time: 180ms] Running: 'Cell Balancer' (Remaining: 30ms)
+ [Time: 190ms] Running: 'Cell Balancer' (Remaining: 20ms)
+ [Time: 200ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 210ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 220ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 230ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 240ms] Running: 'Cell Balancer' (Remaining: 10ms)
+ [Time: 250ms] Running: 'Logger' (Remaining: 100ms)
+ [Time: 260ms] Running: 'Logger' (Remaining: 90ms)
+ [Time: 270ms] Running: 'Logger' (Remaining: 80ms)
+ [Time: 280ms] Running: 'Logger' (Remaining: 70ms)
+ [Time: 290ms] Running: 'Logger' (Remaining: 60ms)
+ [Time: 300ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 310ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 320ms] Running: 'Logger' (Remaining: 50ms)
+ [Time: 330ms] Running: 'Logger' (Remaining: 40ms)
+ [Time: 340ms] Running: 'Logger' (Remaining: 30ms)
+ [Time: 350ms] Running: 'Logger' (Remaining: 20ms)
+ [Time: 360ms] Running: 'Logger' (Remaining: 10ms)
+ [Time: 370ms] CPU Idle
+ [Time: 380ms] CPU Idle
+ [Time: 390ms] CPU Idle
+ [Time: 400ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 410ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 420ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 430ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 440ms] CPU Idle
+ [Time: 450ms] CPU Idle
+ [Time: 460ms] CPU Idle
+ [Time: 470ms] CPU Idle
+ [Time: 480ms] CPU Idle
+ [Time: 490ms] CPU Idle
+ [Time: 500ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 510ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 520ms] Running: 'SoC Calculator' (Remaining: 50ms)
+ [Time: 530ms] Running: 'SoC Calculator' (Remaining: 40ms)
+ [Time: 540ms] Running: 'SoC Calculator' (Remaining: 30ms)
+ [Time: 550ms] Running: 'SoC Calculator' (Remaining: 20ms)
+ [Time: 560ms] Running: 'SoC Calculator' (Remaining: 10ms)
+ [Time: 570ms] CPU Idle
+ [Time: 580ms] CPU Idle
+ [Time: 590ms] CPU Idle
+ [Time: 600ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 610ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 620ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 630ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 640ms] CPU Idle
+ [Time: 650ms] CPU Idle
+ [Time: 660ms] CPU Idle
+ [Time: 670ms] CPU Idle
+ [Time: 680ms] CPU Idle
+ [Time: 690ms] CPU Idle
+ [Time: 700ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 710ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 720ms] CPU Idle
+ [Time: 730ms] CPU Idle
+ [Time: 740ms] CPU Idle
+ [Time: 750ms] CPU Idle
+ [Time: 760ms] CPU Idle
+ [Time: 770ms] CPU Idle
+ [Time: 780ms] CPU Idle
+ [Time: 790ms] CPU Idle
+ [Time: 800ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 810ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 820ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 830ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 840ms] CPU Idle
+ [Time: 850ms] CPU Idle
+ [Time: 860ms] CPU Idle
+ [Time: 870ms] CPU Idle
+ [Time: 880ms] CPU Idle
+ [Time: 890ms] CPU Idle
+ [Time: 900ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 910ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 920ms] CPU Idle
+ [Time: 930ms] CPU Idle
+ [Time: 940ms] CPU Idle
+ [Time: 950ms] CPU Idle
+ [Time: 960ms] CPU Idle
+ [Time: 970ms] CPU Idle
+ [Time: 980ms] CPU Idle
+ [Time: 990ms] CPU Idle
+ [Time: 1000ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1010ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1020ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 1030ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 1040ms] Running: 'SoC Calculator' (Remaining: 50ms)
+ [Time: 1050ms] Running: 'SoC Calculator' (Remaining: 40ms)
+ [Time: 1060ms] Running: 'SoC Calculator' (Remaining: 30ms)
+ [Time: 1070ms] Running: 'SoC Calculator' (Remaining: 20ms)
+ [Time: 1080ms] Running: 'SoC Calculator' (Remaining: 10ms)
+ [Time: 1090ms] Running: 'Cell Balancer' (Remaining: 100ms)
+ [Time: 1100ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1110ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1120ms] Running: 'Cell Balancer' (Remaining: 90ms)
+ [Time: 1130ms] Running: 'Cell Balancer' (Remaining: 80ms)
+ [Time: 1140ms] Running: 'Cell Balancer' (Remaining: 70ms)
+ [Time: 1150ms] Running: 'Cell Balancer' (Remaining: 60ms)
+ [Time: 1160ms] Running: 'Cell Balancer' (Remaining: 50ms)
+ [Time: 1170ms] Running: 'Cell Balancer' (Remaining: 40ms)
+ [Time: 1180ms] Running: 'Cell Balancer' (Remaining: 30ms)
+ [Time: 1190ms] Running: 'Cell Balancer' (Remaining: 20ms)
+ [Time: 1200ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1210ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1220ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 1230ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 1240ms] Running: 'Cell Balancer' (Remaining: 10ms)
+ [Time: 1250ms] CPU Idle
+ [Time: 1260ms] CPU Idle
+ [Time: 1270ms] CPU Idle
+ [Time: 1280ms] CPU Idle
+ [Time: 1290ms] CPU Idle
+ [Time: 1300ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1310ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1320ms] CPU Idle
+ [Time: 1330ms] CPU Idle
+ [Time: 1340ms] CPU Idle
+ [Time: 1350ms] CPU Idle
+ [Time: 1360ms] CPU Idle
+ [Time: 1370ms] CPU Idle
+ [Time: 1380ms] CPU Idle
+ [Time: 1390ms] CPU Idle
+ [Time: 1400ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1410ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1420ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 1430ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 1440ms] CPU Idle
+ [Time: 1450ms] CPU Idle
+ [Time: 1460ms] CPU Idle
+ [Time: 1470ms] CPU Idle
+ [Time: 1480ms] CPU Idle
+ [Time: 1490ms] CPU Idle
+ [Time: 1500ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1510ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1520ms] Running: 'SoC Calculator' (Remaining: 50ms)
+ [Time: 1530ms] Running: 'SoC Calculator' (Remaining: 40ms)
+ [Time: 1540ms] Running: 'SoC Calculator' (Remaining: 30ms)
+ [Time: 1550ms] Running: 'SoC Calculator' (Remaining: 20ms)
+ [Time: 1560ms] Running: 'SoC Calculator' (Remaining: 10ms)
+ [Time: 1570ms] CPU Idle
+ [Time: 1580ms] CPU Idle
+ [Time: 1590ms] CPU Idle
+ [Time: 1600ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1610ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1620ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 1630ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 1640ms] CPU Idle
+ [Time: 1650ms] CPU Idle
+ [Time: 1660ms] CPU Idle
+ [Time: 1670ms] CPU Idle
+ [Time: 1680ms] CPU Idle
+ [Time: 1690ms] CPU Idle
+ [Time: 1700ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1710ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1720ms] CPU Idle
+ [Time: 1730ms] CPU Idle
+ [Time: 1740ms] CPU Idle
+ [Time: 1750ms] CPU Idle
+ [Time: 1760ms] CPU Idle
+ [Time: 1770ms] CPU Idle
+ [Time: 1780ms] CPU Idle
+ [Time: 1790ms] CPU Idle
+ [Time: 1800ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1810ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1820ms] Running: 'Temperature Sensor' (Remaining: 20ms)
+ [Time: 1830ms] Running: 'Temperature Sensor' (Remaining: 10ms)
+ [Time: 1840ms] CPU Idle
+ [Time: 1850ms] CPU Idle
+ [Time: 1860ms] CPU Idle
+ [Time: 1870ms] CPU Idle
+ [Time: 1880ms] CPU Idle
+ [Time: 1890ms] CPU Idle
+ [Time: 1900ms] Running: 'Voltage Monitor' (Remaining: 20ms)
+ [Time: 1910ms] Running: 'Voltage Monitor' (Remaining: 10ms)
+ [Time: 1920ms] CPU Idle
+ [Time: 1930ms] CPU Idle
+ [Time: 1940ms] CPU Idle
+ [Time: 1950ms] CPU Idle
+ [Time: 1960ms] CPU Idle
+ [Time: 1970ms] CPU Idle
+ [Time: 1980ms] CPU Idle
+ [Time: 1990ms] CPU Idle
+ Simulation Finished...
+
+(RMS SCHEDULER GANTT CHART)
+
+Voltage Monitor    | ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        ██        
+Temperature Sensor |   ██                  ██                  ██                  ██                  ██                  ██                  ██                  ██                  ██                  ██                
+SoC Calculator     |     █████                                           █████                                               █████                                           █████                                           
+Cell Balancer      |          █  ████████    █                                                                                    █  ████████    █                                                                           
+Logger             |                          █████  █████                                                                                                                                                                   
+CPU Idle           |                                      ░░░    ░░░░░░       ░░░    ░░░░░░  ░░░░░░░░    ░░░░░░  ░░░░░░░░                         ░░░░░  ░░░░░░░░    ░░░░░░       ░░░    ░░░░░░  ░░░░░░░░    ░░░░░░  ░░░░░░░░
+Time Axis (x10ms)  | |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------
+
+
+
+ (RMS PERFORMANCE METRICS)
+ Total Execution Ticks: 200
+ Idle Ticks Recorded:   90
+ Total Deadline Misses: 0
+ Overall CPU Utilization: 55% 
+
